@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.exe.config
+D:\Basic_C#_Programs\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.exe
+D:\Basic_C#_Programs\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.pdb
+D:\Basic_C#_Programs\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.exe
+D:\Basic_C#_Programs\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.pdb

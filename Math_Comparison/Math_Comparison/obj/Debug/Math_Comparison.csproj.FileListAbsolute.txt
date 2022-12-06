@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\Math_Comparison\Math_Comparison\obj\Debug\Math_Comparison.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Math_Comparison\Math_Comparison\obj\Debug\Math_Comparison.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Math_Comparison\Math_Comparison\bin\Debug\Math_Comparison.exe.config
+D:\Basic_C#_Programs\Math_Comparison\Math_Comparison\bin\Debug\Math_Comparison.exe
+D:\Basic_C#_Programs\Math_Comparison\Math_Comparison\bin\Debug\Math_Comparison.pdb
+D:\Basic_C#_Programs\Math_Comparison\Math_Comparison\obj\Debug\Math_Comparison.exe
+D:\Basic_C#_Programs\Math_Comparison\Math_Comparison\obj\Debug\Math_Comparison.pdb

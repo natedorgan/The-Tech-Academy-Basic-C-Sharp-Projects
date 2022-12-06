@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe.config
+D:\Basic_C#_Programs\Daily_Report\Daily_Report\bin\Debug\Daily_Report.exe
+D:\Basic_C#_Programs\Daily_Report\Daily_Report\bin\Debug\Daily_Report.pdb
+D:\Basic_C#_Programs\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Daily_Report\Daily_Report\obj\Debug\Daily_Report.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Daily_Report\Daily_Report\obj\Debug\Daily_Report.exe
+D:\Basic_C#_Programs\Daily_Report\Daily_Report\obj\Debug\Daily_Report.pdb

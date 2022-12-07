@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\Loops_Assignment\Loops_Assignment\bin\Debug\Loops_Assignment.exe.config
+D:\Basic_C#_Programs\Loops_Assignment\Loops_Assignment\bin\Debug\Loops_Assignment.exe
+D:\Basic_C#_Programs\Loops_Assignment\Loops_Assignment\bin\Debug\Loops_Assignment.pdb
+D:\Basic_C#_Programs\Loops_Assignment\Loops_Assignment\obj\Debug\Loops_Assignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Loops_Assignment\Loops_Assignment\obj\Debug\Loops_Assignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Loops_Assignment\Loops_Assignment\obj\Debug\Loops_Assignment.exe
+D:\Basic_C#_Programs\Loops_Assignment\Loops_Assignment\obj\Debug\Loops_Assignment.pdb

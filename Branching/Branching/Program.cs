@@ -28,7 +28,7 @@ namespace Branching
                 string lengthInput = Console.ReadLine();
                 int packLength = Convert.ToInt32(lengthInput);
                 int overallDimensions = (packLength + packHeight + packWidth);
-                int dimTotal = overallDimensions * packWeight;
+                int dimTotal = (packLength * packHeight * packWidth) * packWeight;
                 decimal dimDec = Convert.ToDecimal(dimTotal);                //convert to decimal for cent values
                 decimal shipCost = dimDec / 100;
                 string endResult = overallDimensions > 50 ? "Package too big to be shipped via Package Express." : "Your estimated total for this package is: $" + shipCost;

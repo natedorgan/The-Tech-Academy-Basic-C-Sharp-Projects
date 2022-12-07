@@ -27,7 +27,7 @@ namespace Branching
                 Console.WriteLine("What is the package's length?");
                 string lengthInput = Console.ReadLine();
                 int packLength = Convert.ToInt32(lengthInput);
-                int overallDimensions = (packLength * packHeight * packWidth);
+                int overallDimensions = (packLength + packHeight + packWidth);
                 int dimTotal = overallDimensions * packWeight;
                 decimal dimDec = Convert.ToDecimal(dimTotal);                //convert to decimal for cent values
                 decimal shipCost = dimDec / 100;

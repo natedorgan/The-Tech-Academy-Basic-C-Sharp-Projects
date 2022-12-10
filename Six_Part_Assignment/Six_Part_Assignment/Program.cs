@@ -22,7 +22,7 @@ namespace Six_Part_Assignment
             {
                 Console.WriteLine(stringArray[i]);           //writes each item of the array in turn
             }
-            Console.readline();
+            Console.ReadLine();
 
             //Assignment 2
 

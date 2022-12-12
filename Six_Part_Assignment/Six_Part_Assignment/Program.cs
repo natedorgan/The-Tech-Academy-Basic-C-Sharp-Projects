@@ -6,7 +6,7 @@ namespace Six_Part_Assignment
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             //Assignment 1
 
@@ -28,27 +28,27 @@ namespace Six_Part_Assignment
 
             //Infinite version - will count infinitely as there is no end condition. The count will increase by one infinitely as the condition will always be true.
 
-            //int count = 0;
+            int count = 0;
 
-            //while(true)
-            //{
-            //    Console.WriteLine("Count = {0}.", count);
-            //    count++;
-            //}
+            while(true)
+            {
+                Console.WriteLine("Count = {0}.", count);
+                count++;
+            }
 
             //Fixed version - added the if(count > 20) { break; } so that once the count will increase by one until hitting 20, at which point the program will end.
-            //int count = 0;
+            int count1 = 0;
 
-            //while(true)
-            //{
-            //    Console.WriteLine("Count = {0}.", count);
-            //    count++;
+            while(true)
+            {
+                Console.WriteLine("Count = {0}.", count1);
+                count1++;
 
-            //    if(count > 20)
-            //    {
-            //        break;
-            //    }
-            //}
+                if(count1 > 20)
+                {
+                    break;
+                }
+            }
             //Console.ReadLine();
 
             //Assignment 3
@@ -109,18 +109,18 @@ namespace Six_Part_Assignment
             List<string> nameCopies = new List<string>() { "Bob", "Sue", "Dave", "Diana", "Bob", "Mary", "Mary" };
 
             Console.WriteLine("Enter name to search");
-            string userSearch = Console.ReadLine();
-            int count = 0;
+            string userSearch1 = Console.ReadLine();
+            int count2 = 0;
 
             foreach (string name in nameCopies)
             {
-                if (name == userSearch)
+                if (name == userSearch1)
                 {
-                    Console.WriteLine("Index: " + count);
+                    Console.WriteLine("Index: " + count2);
                 }
-                count++;
+                count2++;
             }
-            if (!nameCopies.Contains(userSearch))
+            if (!nameCopies.Contains(userSearch1))
             {
                 Console.WriteLine("Result not found");
             }
@@ -133,7 +133,7 @@ namespace Six_Part_Assignment
 
             List<string> letterList = new List<string>() { "A", "B", "C", "D", "C" };
             List<string> uniqueCheck = new List<string>();
-            int count = 0;
+            int count3 = 0;
 
             foreach (string letter in letterList)
             {
@@ -146,7 +146,7 @@ namespace Six_Part_Assignment
                 {
                     Console.WriteLine(letter + " is repeated.");
                 }
-                count++;
+                count3++;
                 
             }
             Console.ReadLine();

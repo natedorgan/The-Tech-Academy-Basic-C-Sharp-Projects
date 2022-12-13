@@ -12,6 +12,8 @@ namespace Method_Class
         {
             var mathObject = new Class1();
             mathObject.Method(1, 2);
+            var mathObject = new Class1();
+            mathObject.Method(num1: 1, num2: 2);
             Console.ReadLine();
         }
     }

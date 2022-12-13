@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\Method_Submission\Method_Submission\bin\Debug\Method_Submission.exe.config
+D:\Basic_C#_Programs\Method_Submission\Method_Submission\bin\Debug\Method_Submission.exe
+D:\Basic_C#_Programs\Method_Submission\Method_Submission\bin\Debug\Method_Submission.pdb
+D:\Basic_C#_Programs\Method_Submission\Method_Submission\obj\Debug\Method_Submission.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Method_Submission\Method_Submission\obj\Debug\Method_Submission.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Method_Submission\Method_Submission\obj\Debug\Method_Submission.exe
+D:\Basic_C#_Programs\Method_Submission\Method_Submission\obj\Debug\Method_Submission.pdb

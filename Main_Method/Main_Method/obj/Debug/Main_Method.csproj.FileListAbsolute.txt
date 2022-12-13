@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\Main_Method\Main_Method\bin\Debug\Main_Method.exe.config
+D:\Basic_C#_Programs\Main_Method\Main_Method\bin\Debug\Main_Method.exe
+D:\Basic_C#_Programs\Main_Method\Main_Method\bin\Debug\Main_Method.pdb
+D:\Basic_C#_Programs\Main_Method\Main_Method\obj\Debug\Main_Method.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Main_Method\Main_Method\obj\Debug\Main_Method.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Main_Method\Main_Method\obj\Debug\Main_Method.exe
+D:\Basic_C#_Programs\Main_Method\Main_Method\obj\Debug\Main_Method.pdb

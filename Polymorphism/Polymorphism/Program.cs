@@ -10,7 +10,7 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
-            Employee sample = new Employee();
+            IQuittable sample = new IQuittable();
             sample.Quit();
             Console.ReadLine();
         }

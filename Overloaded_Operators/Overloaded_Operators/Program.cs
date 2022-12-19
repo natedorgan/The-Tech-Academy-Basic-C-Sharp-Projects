@@ -16,14 +16,8 @@ namespace Overloaded_Operators
             employee1.ID = 1;
             employee2.ID = 2;
 
-            if (employee1 == employee2)
-            {
-                Console.WriteLine(true);
-            }
-            else
-            {
-                Console.WriteLine(false);
-            }
+            Console.WriteLine(employee1 == employee2);
+                
             Console.ReadLine();
         }
     }

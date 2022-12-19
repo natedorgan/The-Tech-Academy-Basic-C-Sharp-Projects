@@ -23,7 +23,7 @@ namespace Parsing_Enums
                 }
                 else
                 {
-                    Console.WriteLine("Please enter an actual day of the week");
+                    throw new InvalidCastException();
                 }
 
             }

@@ -1,0 +1,7 @@
+C:\Users\nated\source\repos\Overloaded_Operators\Overloaded_Operators\obj\Debug\Overloaded_Operators.csproj.AssemblyReference.cache
+C:\Users\nated\source\repos\Overloaded_Operators\Overloaded_Operators\obj\Debug\Overloaded_Operators.csproj.CoreCompileInputs.cache
+C:\Users\nated\source\repos\Overloaded_Operators\Overloaded_Operators\bin\Debug\Overloaded_Operators.exe.config
+C:\Users\nated\source\repos\Overloaded_Operators\Overloaded_Operators\bin\Debug\Overloaded_Operators.exe
+C:\Users\nated\source\repos\Overloaded_Operators\Overloaded_Operators\bin\Debug\Overloaded_Operators.pdb
+C:\Users\nated\source\repos\Overloaded_Operators\Overloaded_Operators\obj\Debug\Overloaded_Operators.exe
+C:\Users\nated\source\repos\Overloaded_Operators\Overloaded_Operators\obj\Debug\Overloaded_Operators.pdb

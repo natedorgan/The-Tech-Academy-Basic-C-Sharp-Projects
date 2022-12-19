@@ -1,0 +1,7 @@
+C:\Users\nated\source\repos\Parsing_Enums\Parsing_Enums\bin\Debug\Parsing_Enums.exe.config
+C:\Users\nated\source\repos\Parsing_Enums\Parsing_Enums\bin\Debug\Parsing_Enums.exe
+C:\Users\nated\source\repos\Parsing_Enums\Parsing_Enums\bin\Debug\Parsing_Enums.pdb
+C:\Users\nated\source\repos\Parsing_Enums\Parsing_Enums\obj\Debug\Parsing_Enums.csproj.AssemblyReference.cache
+C:\Users\nated\source\repos\Parsing_Enums\Parsing_Enums\obj\Debug\Parsing_Enums.csproj.CoreCompileInputs.cache
+C:\Users\nated\source\repos\Parsing_Enums\Parsing_Enums\obj\Debug\Parsing_Enums.exe
+C:\Users\nated\source\repos\Parsing_Enums\Parsing_Enums\obj\Debug\Parsing_Enums.pdb

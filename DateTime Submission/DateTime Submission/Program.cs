@@ -10,16 +10,12 @@ namespace DateTime_Submission
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DateTime.Now);
-            Console.WriteLine("Please enter a number");
+            DateTime dtn = DateTime.Now;
+            Console.WriteLine("The time is: " + dtn);
+            Console.WriteLine("Please enter a number of hours to add");
             int userNum = Convert.ToInt32(Console.ReadLine());
-            DateTime date1 = DateTime.Now;
-            string date1s = date1.ToString("%h");
-            int date1i = Convert.ToInt32(date1s);
-            int result = userNum + date1i;
-            string results = result.ToString();
-            DateTime resultdt = DateTime.Parse(results);
-            Console.WriteLine(resultdt);
+            DateTime dtu = dtn.AddHours(userNum);
+            Console.WriteLine("Updated time: " + dtu);
             Console.ReadLine();
         }
     }

@@ -1,0 +1,2 @@
+C:\Users\nated\source\repos\Lambda_Submission\Lambda_Submission\obj\Debug\Lambda_Submission.csproj.AssemblyReference.cache
+C:\Users\nated\source\repos\Lambda_Submission\Lambda_Submission\obj\Debug\Lambda_Submission.csproj.CoreCompileInputs.cache

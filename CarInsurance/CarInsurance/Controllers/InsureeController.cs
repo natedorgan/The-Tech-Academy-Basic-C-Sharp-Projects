@@ -43,51 +43,49 @@ namespace CarInsurance.Controllers
         }
 
 
-        //I wasn't able to get this to work outside of the Create() function
-
-        //public ActionResult FindQuote()
-        //{
-        //    insuree.Quote = 50.0m;
-        //    if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
-        //    {
-        //        insuree.Quote += 100;
-        //    }
-        //    if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 25 || DateTime.Now.Year - insuree.DateOfBirth.Year >= 19)
-        //    {
-        //        insuree.Quote += 50;
-        //    }
-        //    if (DateTime.Now.Year - insuree.DateOfBirth.Year >= 26)
-        //    {
-        //        insuree.Quote += 25;
-        //    }
-        //    if (insuree.CarYear < 2000)
-        //    {
-        //        insuree.Quote += 25;
-        //    }
-        //    if (insuree.CarYear > 2015)
-        //    {
-        //        insuree.Quote += 25;
-        //    }
-        //    if (insuree.CarMake == "Porsche")
-        //    {
-        //        insuree.Quote += 25;
-        //    }
-        //    if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
-        //    {
-        //        insuree.Quote += 25;
-        //    }
-        //    var SpeedingCharge = (insuree.SpeedingTickets * 10);
-        //    insuree.Quote += SpeedingCharge;
-        //    if (insuree.DUI != null)
-        //    {
-        //        insuree.Quote *= 1.25;
-        //    }
-        //    if (insuree.CoverageType = true);
-        //    {
-        //        insuree.Quote *= 1.5;
-        //    }
-        //    return (insuree.Quote);
-        //}
+        public decimal FindQuote(Insuree insuree)
+        {
+            insuree.Quote = 50.0m;
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
+           {
+                insuree.Quote += 100;
+            }
+           if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 25 || DateTime.Now.Year - insuree.DateOfBirth.Year >= 19)
+         {
+        insuree.Quote += 50;
+           }
+           if (DateTime.Now.Year - insuree.DateOfBirth.Year >= 26)
+           {
+               insuree.Quote += 25;
+           }
+           if (insuree.CarYear < 2000)
+           {
+               insuree.Quote += 25;
+            }
+            if (insuree.CarYear > 2015)
+            {
+              insuree.Quote += 25;
+        }
+          if (insuree.CarMake == "Porsche")
+          {
+               insuree.Quote += 25;
+           }
+           if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+           {
+              insuree.Quote += 25;
+            }
+            var SpeedingCharge = (insuree.SpeedingTickets * 10);
+           insuree.Quote += SpeedingCharge;
+           if (insuree.DUI != null)
+           {
+               insuree.Quote *= 1.25;
+            }
+            if (insuree.CoverageType = true);
+           {
+               insuree.Quote *= 1.5;
+            }
+            return (insuree.Quote);
+        }
 
         // POST: Insuree/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
@@ -99,49 +97,6 @@ namespace CarInsurance.Controllers
             if (ModelState.IsValid)
             {
                 db.Insurees.Add(insuree);
-                decimal FindQuote()
-                {
-                    insuree.Quote = 50.0m;
-                    if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
-                    {
-                        insuree.Quote += 100;
-                    }
-                    if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 25 || DateTime.Now.Year - insuree.DateOfBirth.Year >= 19)
-                    {
-                        insuree.Quote += 50;
-                    }
-                    if (DateTime.Now.Year - insuree.DateOfBirth.Year >= 26)
-                    {
-                        insuree.Quote += 25;
-                    }
-                    if (insuree.CarYear < 2000)
-                    {
-                        insuree.Quote += 25;
-                    }
-                    if (insuree.CarYear > 2015)
-                    {
-                        insuree.Quote += 25;
-                    }
-                    if (insuree.CarMake == "Porsche")
-                    {
-                        insuree.Quote += 25;
-                    }
-                    if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
-                    {
-                        insuree.Quote += 25;
-                    }
-                    var SpeedingCharge = (insuree.SpeedingTickets * 10);
-                    insuree.Quote += SpeedingCharge;
-                    if (insuree.DUI == true)
-                    {
-                        insuree.Quote *= 1.25M;
-                    }
-                    if (insuree.CoverageType == true)
-                    {
-                        insuree.Quote *= 1.5M;
-                    }
-                    return insuree.Quote;
-                }
                 FindQuote();
                 db.SaveChanges();
                 return RedirectToAction("Index");

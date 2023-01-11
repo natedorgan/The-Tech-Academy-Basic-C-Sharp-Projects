@@ -1,5 +1,5 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-Here are sample websites I made using HTML and CSS.
+Here are sample websites I made using C#.
 
 # Projects
 [Daily Report](https://github.com/natedorgan/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Daily_Report) <br />
